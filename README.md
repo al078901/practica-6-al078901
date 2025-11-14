@@ -1,4 +1,5 @@
 🏗 Cálculo de Capacidad Portante — Método de Terzaghi
+
 📘 Descripción General
 
 Este proyecto consiste en una aplicación desarrollada en Python con Tkinter para estimar la capacidad portante del terreno de manera rápida y sencilla.
@@ -31,6 +32,7 @@ Resultados claros y legibles mostrados en la interfaz.
 
 Ventana centrada automáticamente en pantalla.
 
+
 🧮 Fundamento Teórico
 
 El cálculo de capacidad portante se basa en la estimación de la resistencia del suelo bajo una carga, considerando parámetros como cohesión, peso unitario y características geométricas de la cimentación.
@@ -55,6 +57,7 @@ Botón de cálculo destacado para ejecutar la estimación.
 
 Panel de resultados que muestra la capacidad portante calculada de forma inmediata.
 
+
 🧰 Tecnologías Utilizadas
 
 Python 3.8 o superior
@@ -62,6 +65,7 @@ Python 3.8 o superior
 Tkinter (librería estándar de Python para interfaces gráficas)
 
 Funciona sin necesidad de instalar librerías adicionales, compatible con IDLE, VS Code o PyCharm.
+
 
 ▶️ Uso
 
